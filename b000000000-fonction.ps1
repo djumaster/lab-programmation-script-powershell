@@ -25,5 +25,5 @@ function Stagiaire {
 }
 
 # Appel de la fonction
-Stagiaire --VILLE-- --AGE--
+Stagiaire Toronto 35
 
