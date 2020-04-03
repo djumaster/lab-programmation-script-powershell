@@ -12,8 +12,7 @@
 #>
 [String]$personneNom = "Alice"
 [Int]$personneAge = 35
-$personneNom = "Alice"
-$personneAge = 35
+
 Write-Host "Bonjour $personneNom, tu as $personneAge ans. "
 
 # Test sur l'age de la personne
@@ -30,6 +29,6 @@ for ($i = 0; $i -le $villes.Count; $i = $i + 1) {
     $villes[$i]
 }
 
-#Clear-Host
+Clear-Host
 "{0}" -F ($villes.Count % 2)
 
