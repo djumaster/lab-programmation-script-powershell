@@ -6,8 +6,8 @@
     Ce script est utilisé pour le laboratoire de programmation en Powershell.
 
 .NOTES
-    Author: CollegeBoreal
-    Derniere mise à jour: yyyy-mm-dd
+    Author: djumaster
+    Derniere mise à jour: 2020-04-02
 
 #>
 
@@ -25,5 +25,5 @@ function Stagiaire {
 }
 
 # Appel de la fonction
-Stagiaire Toronto 35
+Stagiaire Toronto 35 ans
 
